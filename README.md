@@ -13,21 +13,14 @@ Convert between Celsius and Fahrenheit
 Dynamic background (video/image) based on celsius  temperature:
 
 ❄️ Cold (e.g., snow background for low temperatures)
-
 ☁️ Cloudy/Sunny (e.g., image for warm conditions)
-
 🌞 Hot (e.g., sunny video for high temperatures)
-
-
 Responsive and user-friendly UI
-
 Clear result display with smooth transitions
 
 
 Technologies Used:
 
 HTML5
-
 CSS3
-
 JavaScript
