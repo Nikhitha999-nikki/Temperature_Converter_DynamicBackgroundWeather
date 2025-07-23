@@ -13,10 +13,23 @@ Convert between Celsius and Fahrenheit
 Dynamic background (video/image) based on celsius  temperature:
 
 ❄️ Cold (e.g., snow background for low temperatures)
+
+![Image Alt](https://github.com/Nikhitha999-nikki/Temperature_Converter_DynamicBackgroundWeather/blob/e21088fb3420aa5b48b3302c8ffcfdcfd4788dc9/Temperature%20Converter%20and%203%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%207_23_2025%206_31_34%20PM.png)
+
 ☁️ Cloudy/Sunny (e.g., image for warm conditions)
- ![Image Alt](https://github.com/Nikhitha999-nikki/Temperature_Converter_DynamicBackgroundWeather/blob/e21088fb3420aa5b48b3302c8ffcfdcfd4788dc9/Temperature%20Converter%20and%203%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%207_23_2025%206_31_34%20PM.png)
-🌞 Hot (e.g., sunny video for high temperatures)
+
 ![Image Alt](https://github.com/Nikhitha999-nikki/Temperature_Converter_DynamicBackgroundWeather/blob/f7b57c530d410b3cd0b4f4420e2aba187bea85c4/Temperature%20Converter%20and%204%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%207_23_2025%207_35_20%20AM.png)
+ 
+🌞 Hot (e.g., sunny video for high temperatures)
+
+![Image Alt](https://github.com/Nikhitha999-nikki/Temperature_Converter_DynamicBackgroundWeather/blob/b39a510d0f49e4001b89b1a44c82621aa989fbea/Temperature%20Converter%20and%203%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%207_23_2025%207_10_41%20PM.png)
+
+🌞 Mild/Cool
+
+
+
+
+
 Responsive and user-friendly UI
 Clear result display with smooth transitions
 
