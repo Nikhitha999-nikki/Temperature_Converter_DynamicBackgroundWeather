@@ -14,7 +14,7 @@ Dynamic background (video/image) based on celsius  temperature:
 
 ❄️ Cold (e.g., snow background for low temperatures)
 ☁️ Cloudy/Sunny (e.g., image for warm conditions)
- ![Image Alt](image_url)Temperature Converter and 3 more pages - Personal - Microsoft​ Edge 7_23_2025 6_31_34 PM.png
+ ![CHEESE!](Temperature Converter and 3 more pages - Personal - Microsoft​ Edge 7_23_2025 6_31_34 PM.png)
 🌞 Hot (e.g., sunny video for high temperatures)
 Responsive and user-friendly UI
 Clear result display with smooth transitions
